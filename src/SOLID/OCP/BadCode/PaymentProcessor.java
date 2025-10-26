@@ -1,11 +1,5 @@
 package SOLID.OCP.BadCode;
 
-/**
- * Open/Close Principle
- * Software entities (classes, modules, functions) should be open for extension but closed for modification.
- * Example: Adding new functionality to a system using inheritance or composition without modifying existing code.
- */
-
 public class PaymentProcessor {
     public void processPayment(String paymentMethod, double amount) {
         if(paymentMethod.equals("CreditCard")) {
