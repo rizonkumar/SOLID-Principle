@@ -1,4 +1,4 @@
-package SOLID.BadCode;
+package SOLID.SRP.BadCode;
 
 /**
  *
