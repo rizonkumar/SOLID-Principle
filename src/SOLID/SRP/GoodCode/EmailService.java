@@ -1,4 +1,4 @@
-package SOLID.GoodCode;
+package SOLID.SRP.GoodCode;
 
 public class EmailService {
     public void sendEmailNotification() {

@@ -1,4 +1,4 @@
-package SOLID.GoodCode;
+package SOLID.SRP.GoodCode;
 
 public class Invoice {
     private double amount;
