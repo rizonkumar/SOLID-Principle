@@ -6,7 +6,7 @@
 
 ### Code Overview
 
-```java
+```java 
 package SOLID.LSP.GoodCode;
 
 public interface Readable {
